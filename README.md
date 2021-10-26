@@ -1,4 +1,5 @@
 Лабораторная работа №4
+Команды:
 -git --version
 -git config --global user.name "Kate"
 -git config --global user.email ekaterinakalmykova213@gmail.com
